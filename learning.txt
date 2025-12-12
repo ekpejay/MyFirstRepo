@@ -1,2 +1,4 @@
 I have learned how to use Git and GitHub to manage my projects more effectively.
 I now understand how to clone repositories, create branches, make commits, and push my work to GitHub.
+This course has also taught me how to collaborate with others by using features like forking and pull requests.
+Overall, I am becoming more confident in using version control to organize and track changes in my work.
