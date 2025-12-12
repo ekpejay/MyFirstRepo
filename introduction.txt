@@ -1,0 +1,6 @@
+# Brief Introduction About Myself
+
+Hello! My name is Joshua. I am currently learning Git and GitHub to improve my coding and version control skills.
+
+I enjoy exploring new technologies and working on small projects to enhance my understanding of software development.
+
